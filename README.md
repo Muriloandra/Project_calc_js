@@ -1,4 +1,4 @@
-Projeto "Calculadora de media
+Projeto "Calculadora de media"
 
 Este é um projeto desenvolvido com o uso das tecnologias HTML, CSS e JavaScript.
 
