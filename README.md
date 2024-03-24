@@ -7,7 +7,11 @@ Funcionalidades
 Uma calculdadora basica para calcular medias a partir de uma nota minima que pode ser inserida pelo usuario!
 
 HTML: Utilizado para estruturar o conteúdo da página, permitindo uma organização dos elementos.
+
+
 CSS: Responsável pela estilização e aparência visual do projeto.
+
+
 JavaScript: Implementado para adicionar interatividade ao projeto ; alteracao das imagens, alert, e os calculos conforme o usuario adiciona as notas.
 
 Como acessar?
